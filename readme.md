@@ -12,8 +12,8 @@ So this repo contains the first two things I did in deep learning: first, an MLP
 This was honestly pretty painful, mostly the NumPy version, because starting out in deep learning without any prior math knowledge forced me to first learn derivatives and the linear algebra concepts behind deep learning, which easily took me basically the second month entirely (the first one was learning basic Python).
 
 > [!NOTE]
-> **My learning & coding style:** The way I code is that I usually study the topic until I understand it, often for a couple of days, and then I try to replicate it off the top of my head in code. To be honest, in most cases, I coded assisted by AI—not to copy and paste the core logic, but just to keep recalling what I learned while I coded. This coding method is what I did for basically everything I did in my first 6 months.
->
+> **My learning & coding style:** The way I code is that I usually study the topic until I understand it, often for a couple of days, and then I try to replicate it off the top of my head in code. To be honest, in most cases, I coded assisted by AI—not to copy and paste the core logic, but just to keep recalling what I learned while I coded. This coding method is what I did for basically everything I did in my first 6 months. Also to note that commenting was assisted by AI and variable names were translated from spanish to english
+
 > **On Git and timing:** All of this README (and the READMEs inside each repo) was written assisted by AI (mostly to make it look good) and all of this was written after the 6 months. I also had to learn Git while I learned everything else, so I decided to just upload everything at once when it felt right to do it, which was a bit intimidating but it is what it is.
 
 ---
