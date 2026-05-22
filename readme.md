@@ -44,9 +44,9 @@ Long story short: it was a great learning experience which showed me the point w
 
 ## 🧠 Overall Reflection & Looking Forward
 
-Overall, this has been a great learning experience. I am pretty proud of the timeframe in which I made all of this. Still, I know it is not *thaaaaaaaat* surprising, as having a Google account nowadays gives you access to basically top-tier robotics and AI professors (Frontier LLMs) that will clear any doubt you have in a second for free.
+Overall, this has been a great learning experience. I am pretty proud of the timeframe in which I made all of this. Still, I know it is not *thaat* surprising, as having a Google account nowadays gives you access to basically top-tier robotics and AI professors (Frontier LLMs) that will clear any doubt you have in a second for free.
 
-Looking forward, I will probably stop coding by hand. I think I have finally reached the point where I can start to really think about how to engineer solutions to deep learning problems and leave the coding itself to an agent. I will most likely pause on computer vision right now and go towards NLP or World Models.
+Looking forward, I will probably stop coding by hand. I think I have finally reached the point where I can start to really think about how to engineer solutions to deep learning problems (which is my dream and what i want to work on) and leave the coding itself to an agent, just still verifying it myself. I will most likely pause on computer vision right now and go towards NLP or World Models.
 
 ---
 
